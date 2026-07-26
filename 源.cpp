@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; git --version
 class complex {
 private:
 	double re;
